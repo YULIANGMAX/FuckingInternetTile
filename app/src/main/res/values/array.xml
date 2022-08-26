@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_module_scope" >
+        <item>@string/xposed_module_scope_0</item>
+    </string-array>
+</resources>

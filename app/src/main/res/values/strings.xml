@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xposed_module_name" translatable="false">Fucking Internet Tile</string>
+    <string name="xposed_module_description">Bring back the WLAN and Mobile data Quick Settings tiles.\nTested and passed on Pixel 6 (Android 13 TP1A.220624.021).</string>
+    <string name="xposed_module_scope_0" translatable="false">com.android.systemui</string>
+</resources>
